@@ -193,6 +193,7 @@
         "sleep": true
     },
     "community_layouts": ["split_3x5_3"],
+    "menus": ["qmk_rgb_matrix"],
     "layouts": {
         "LAYOUT_split_3x5_3": {
             "layout": [
